@@ -1,3 +1,3 @@
 # improved-guacamole
 
-![CI](https://github.com/rsese/improved-guacamole/workflows/CI/badge.svg)
+![CI](https://github.com/rsese/improved-guacamole/workflows/main.yml/badge.svg)
